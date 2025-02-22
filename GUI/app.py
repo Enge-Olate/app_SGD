@@ -10,7 +10,8 @@ class App:
             root,
             width=600,
             height=500,
-            bg='#f9f4e3'
+            bg='#f9f4e3',
+
         )
         self.canvas.pack()
         pass
